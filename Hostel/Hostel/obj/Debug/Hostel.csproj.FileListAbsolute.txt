@@ -1,0 +1,11 @@
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\bin\Debug\Hostel.exe
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\bin\Debug\Hostel.pdb
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.csprojAssemblyReference.cache
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.MainForm.resources
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.Properties.Resources.resources
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.csproj.GenerateResource.cache
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.csproj.CoreCompileInputs.cache
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.exe
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.pdb
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\bin\Debug\Hostel.exe.config
+C:\Users\dimak\Desktop\СУБД\Hostel\Hostel\obj\Debug\Hostel.EditForm.resources
