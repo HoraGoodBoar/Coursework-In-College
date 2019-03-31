@@ -25,3 +25,7 @@
     - C#
     - Windows Form
     - DB Access
+
+![alt text](https://github.com/HoraGoodBoar/Coursework-in-college/blob/master/Readme/1.png)
+![alt text](https://github.com/HoraGoodBoar/Coursework-in-college/blob/master/Readme/2.png)
+![alt text](https://github.com/HoraGoodBoar/Coursework-in-college/blob/master/Readme/3.png)
